@@ -2,7 +2,7 @@
 
 I'm a passionate full stack developer graduated from Henry who loves crafting innovative and scalable solutions. With expertise in both frontend and backend technologies, I enjoy tackling challenges and learning new technologies.
 ## 🚀 Technical Skills :
-* Frontend: HTML, CSS, JavaScript, React.js
+* Frontend: HTML, CSS, JavaScript, React.js, Tailwind CSS, Bootstrap
 * Backend: Node.js, Express.js
 * Database: PostgreSQL
 * Tools & Others: Git, Scrum, Agile
